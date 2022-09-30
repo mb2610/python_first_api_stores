@@ -12,3 +12,6 @@ or by commande line
 => docker run -p 5002:5000 rest-apis-flask-python
 
 add '-d' to run it in the background to not use anoter terminal
+
+# Install all dependencies
+pip install -r requirements.txt
